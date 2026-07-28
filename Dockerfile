@@ -1,8 +1,8 @@
-FROM php:8.3-cli
+FROM php:8.4-cli
 
 # System dependencies + PHP extensions Laravel needs
 RUN apt-get update && apt-get install -y \
-    git curl zip unzip libzip-dev libpng-dev libonig-dev libxml2-dev \
+    git curl zip unzip libzip-dev libpng-dev libonig-dev libxml2-dev libsqlite3-dev \
     && docker-php-ext-install pdo pdo_sqlite mbstring exif pcntl bcmath gd zip \
     && rm -rf /var/lib/apt/lists/*
 
