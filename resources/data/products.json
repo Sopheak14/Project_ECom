@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "sku": "SKU-0001",
+        "name": "Vantage 15 Laptop",
+        "category": "laptop",
+        "price": 1199.0,
+        "stock": 12,
+        "specShort": "14-core CPU / 16GB RAM / 1TB SSD",
+        "description": "A slim 15-inch laptop built for daily driving: coding, spreadsheets, and everything between. 14-core processor, 16GB of memory and a fast 1TB SSD keep it quick under real workloads, and the 99Wh battery is rated for a full day away from a plug.",
+        "specs": {
+            "Processor": "14-core, up to 4.8GHz",
+            "Memory": "16GB LPDDR5",
+            "Storage": "1TB NVMe SSD",
+            "Display": "15.6\" 2560x1600 IPS",
+            "Battery": "99Wh, up to 14 hrs",
+            "Weight": "1.6 kg"
+        },
+        "image": "images/products/vantage-15-laptop.avif"
+    },
+    {
+        "id": 2,
+        "sku": "SKU-0002",
+        "name": "ROG Strix G16 (2026)",
+        "category": "laptop",
+        "price": 2099.0,
+        "stock": 100,
+        "specShort": "AMD Ryzen™ 9 8940HX / 16GB DDR5 / 512GB SSD / 16\" FHD+ 165Hz",
+        "description": "The ROG Strix G16 (2026) is a high-performance gaming laptop designed for gamers and content creators. It features the powerful AMD Ryzen™ 9 8940HX Processor, 16GB of DDR5 memory, and a 512GB M.2 PCIe SSD for fast storage.",
+        "specs": {
+            "Processor": "AMD Ryzen™ 9 8940HX (16 Cores, 32 Threads, up to 5.3GHz)",
+            "Memory": "16GB DDR5",
+            "Storage": "512GB M.2 PCIe SSD",
+            "Display": "16\" FHD+ (1920 x 1200) IPS-Level 165Hz",
+            "Battery": "90WHrs, 4-cell Li-ion",
+            "Weight": "2.50 kg"
+        },
+        "image": "images/products/ROG-G614-1-330x409.png"
+    },
+    {
+        "id": 3,
+        "sku": "SKU-0003",
+        "name": "Asus ROG Strix Scar 16 (2026)",
+        "category": "laptop",
+        "price": 2399.0,
+        "stock": 85,
+        "specShort": "Intel® Core™ i9 14900HX / 32GB DDR5 / 1TB SSD / 16\" QHD+ 240Hz",
+        "description": "Engineered for elite competitive gaming, the ROG Strix Scar 16 features an Intel Core i9 processor, ROG Nebula HDR Mini LED display, and advanced Tri-Fan thermal technology to deliver peak performance under heavy gaming loads.",
+        "specs": {
+            "Processor": "Intel® Core™ i9 14900HX (24 Cores, up to 5.8GHz)",
+            "Memory": "32GB DDR5",
+            "Storage": "1TB M.2 NVMe PCIe 4.0 SSD",
+            "Display": "16\" QHD+ (2560 x 1600) Mini LED 240Hz",
+            "Battery": "90WHrs, 4-cell Li-ion",
+            "Weight": "2.65 kg"
+        },
+        "image": "images/products/AsusROGStrixScar16.png"
+    },
+    {
+        "id": 4,
+        "sku": "SKU-0004",
+        "name": "ASUS ROG Zephyrus G14",
+        "category": "laptop",
+        "price": 3499.0,
+        "stock": 40,
+        "specShort": "Intel® Core™ Ultra 9 / 32GB DDR5 / 1TB SSD / 14\" QHD+ OLED 120Hz",
+        "description": "An ultra-portable 14-inch gaming laptop featuring an aluminum CNC unibody, vibrant OLED display, and top-tier Intel Core Ultra 9 processor designed for heavy creative workflows and high-framerate gaming.",
+        "specs": {
+            "Processor": "Intel® Core™ Ultra 9 185H (16 Cores, up to 5.1GHz)",
+            "Memory": "32GB LPDDR5X",
+            "Storage": "1TB M.2 NVMe PCIe 4.0 SSD",
+            "Display": "14\" QHD+ (2560 x 1600) OLED 120Hz",
+            "Battery": "73WHrs, 4-cell Li-ion",
+            "Weight": "1.50 kg"
+        },
+        "image": "images/products/ASUS-ROG-Zephyrus-G14.png"
+    },
+    {
+        "id": 5,
+        "sku": "SKU-0005",
+        "name": "Lenovo Legion Pro 7",
+        "category": "laptop",
+        "price": 2499.0,
+        "stock": 15,
+        "specShort": "Intel® Core™ Ultra 9 / 32GB DDR5 / 1TB SSD / 16\" QHD+ 240Hz",
+        "description": "Powered by AI-tuned performance management, the Lenovo Legion Pro 7 delivers raw gaming dominance with an Intel Core Ultra 9 processor, crisp 16-inch QHD+ display, and Legion Coldfront vapor chamber cooling.",
+        "specs": {
+            "Processor": "Intel® Core™ Ultra 9 185H (16 Cores, up to 5.1GHz)",
+            "Memory": "32GB DDR5",
+            "Storage": "1TB M.2 PCIe 4.0 SSD",
+            "Display": "16\" QHD+ (2560 x 1600) IPS 240Hz",
+            "Battery": "99.9WHrs, up to 8 hrs",
+            "Weight": "2.80 kg"
+        },
+        "image": "images/products/Lenovo_Legion_Pro7.avif"
+    },
+    {
+        "id": 6,
+        "sku": "SKU-0006",
+        "name": "Apple MacBook Pro 16\" (M3 Max)",
+        "category": "laptop",
+        "price": 3499.0,
+        "stock": 25,
+        "specShort": "Apple M3 Max 16-core CPU / 36GB Unified Memory / 1TB SSD",
+        "description": "Built for pro developers, 3D artists, and video editors, the 16-inch MacBook Pro featuring the M3 Max chip offers incredible computational efficiency, a Liquid Retina XDR display, and up to 22 hours of battery life.",
+        "specs": {
+            "Processor": "Apple M3 Max (16-core CPU, 40-core GPU)",
+            "Memory": "36GB Unified Memory",
+            "Storage": "1TB NVMe SSD",
+            "Display": "16.2\" Liquid Retina XDR (3456 x 2234) 120Hz",
+            "Battery": "100Wh, up to 22 hrs",
+            "Weight": "2.14 kg"
+        },
+        "image": "images/products/MacBook-Pro-M3-2-1.png"
+    },
+    {
+        "id": 7,
+        "sku": "SKU-0007",
+        "name": "Dell XPS 16",
+        "category": "laptop",
+        "price": 2299.0,
+        "stock": 30,
+        "specShort": "Intel® Core™ Ultra 7 / 32GB RAM / 1TB SSD / 16.3\" 4K OLED Touch",
+        "description": "Crafted from machined aluminum and glass, the Dell XPS 16 combines a striking minimalist aesthetic with a brilliant 4K OLED touch display and high-efficiency performance for creative professionals.",
+        "specs": {
+            "Processor": "Intel® Core™ Ultra 7 155H (16 Cores, up to 4.8GHz)",
+            "Memory": "32GB LPDDR5X",
+            "Storage": "1TB M.2 PCIe NVMe SSD",
+            "Display": "16.3\" 4K+ (3840 x 2400) OLED Touch",
+            "Battery": "99.5Wh, up to 12 hrs",
+            "Weight": "2.20 kg"
+        },
+        "image": "images/products/XPS-16-NT-graphite-2.png"
+    },
+    {
+        "id": 8,
+        "sku": "SKU-0008",
+        "name": "HP OMEN Transcend 14",
+        "category": "laptop",
+        "price": 1699.0,
+        "stock": 50,
+        "specShort": "Intel® Core™ Ultra 7 / 16GB DDR5 / 1TB SSD / 14\" 2.8K OLED 120Hz",
+        "description": "The OMEN Transcend 14 is one of the lightest 14-inch gaming laptops on the market, combining an OLED display, quiet storm cooling technology, and streamlined modern styling for gaming on the move.",
+        "specs": {
+            "Processor": "Intel® Core™ Ultra 7 155H (16 Cores, up to 4.8GHz)",
+            "Memory": "16GB LPDDR5X",
+            "Storage": "1TB PCIe Gen4 NVMe SSD",
+            "Display": "14\" 2.8K (2880 x 1800) OLED 120Hz",
+            "Battery": "71Wh, up to 9 hrs",
+            "Weight": "1.63 kg"
+        },
+        "image": "images/products/24C1_OMEN_Voco_14_Shadow-Black_NT_nonFPR_4-Zone_Core-Set_Rear-Left_4164384.png"
+    },
+    {
+        "id": 9,
+        "sku": "SKU-0009",
+        "name": "Razer Blade 16",
+        "category": "laptop",
+        "price": 2999.0,
+        "stock": 18,
+        "specShort": "Intel® Core™ i9 14900HX / 32GB DDR5 / 1TB SSD / 16\" QHD+ OLED 240Hz",
+        "description": "Featuring the world's first 240Hz 16-inch QHD+ OLED display, the Razer Blade 16 provides desktop-grade gaming power inside an ultra-compact anodized aluminum chassis.",
+        "specs": {
+            "Processor": "Intel® Core™ i9 14900HX (24 Cores, up to 5.8GHz)",
+            "Memory": "32GB DDR5 5600MHz",
+            "Storage": "1TB PCIe 4.0 NVMe M.2 SSD",
+            "Display": "16\" QHD+ (2560 x 1600) OLED 240Hz",
+            "Battery": "95.2Wh, 4-cell Li-ion",
+            "Weight": "2.45 kg"
+        },
+        "image": "images/products/9668-1-en-v2.png"
+    },
+    {
+        "id": 10,
+        "sku": "SKU-0010",
+        "name": "Acer Predator Helios 18",
+        "category": "laptop",
+        "price": 2699.0,
+        "stock": 22,
+        "specShort": "Intel® Core™ i9 14900HX / 32GB DDR5 / 2TB SSD / 18\" Mini LED 250Hz",
+        "description": "A massive 18-inch desktop-replacement gaming laptop outfitted with a vibrant 250Hz Mini LED panel, custom 5th Gen AeroBlade 3D fan technology, and full RGB mechanical switches.",
+        "specs": {
+            "Processor": "Intel® Core™ i9 14900HX (24 Cores, up to 5.8GHz)",
+            "Memory": "32GB DDR5",
+            "Storage": "2TB PCIe Gen4 NVMe SSD",
+            "Display": "18\" WQXGA (2560 x 1600) Mini LED 250Hz",
+            "Battery": "90Wh, 4-cell Li-ion",
+            "Weight": "3.25 kg"
+        },
+        "image": "images/products/nh.qp5ea.002.png"
+    }
+]
